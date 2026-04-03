@@ -1,0 +1,54 @@
+VIVEK SUVARNA
+Software Developer
+viveksuvarna063@gmail.com | +91 7756029366 | viveksuv.vercel.app | github.com/Viveks063
+PROFESSIONAL SUMMARY
+Software Developer specializing in backend systems, Android applications, and AI-driven solutions. Experienced in building scalable Spring Boot APIs, real-time applications using WebSockets, and performance-optimized Android apps with BLE integration. Solved 350+ DSA problems and built 20+ production-ready projects across web, mobile, and ML domains. Currently working on real-time IoT sensor platforms as a Software Engineering Intern.
+PROFESSIONAL EXPERIENCE
+Software Engineering Intern | Doori (IoT Smart Sensor Platform)
+January 2026 - Present
+•	Developed mobile application features for real-time sensor data monitoring using Android SDK and BLE integration
+•	Improved app performance by 20% through efficient state management and debugging
+•	Implemented secure authentication and secure payments and backend connectivity using REST APIs and Firebase
+•	Collaborated with cross-functional teams (hardware + backend) to ensure seamless device-to-app communication
+EDUCATION
+B.Tech in Computer Science Engineering | Pillai College of Engineering | 2022 - 2026 | CGPA: 7.2
+Class XII | Narayana Junior College | 91.6%
+Class X (ICSE) | Presidency School | 83.6%
+TECHNICAL SKILLS
+Languages: Java, Kotlin, Python, JavaScript, Dart
+Backend: Spring Boot, Spring Security, Spring WebSocket, REST APIs, Maven
+Mobile: Android SDK, BLE, Firebase, Room Database
+Frontend: React, HTML, CSS, JavaScript
+AI/ML: LSTM, Transformers, OpenCV, Deep Learning
+Databases & Tools: PostgreSQL, Firebase, H2, Git, Pandas
+KEY PROJECTS
+Real-Time Chat Application | Spring Boot, WebSocket, PostgreSQL
+•	Built room-based real-time chat system supporting concurrent users with message persistence
+•	Implemented WebSocket-based communication for low-latency messaging
+Blog API with JWT Authentication | Spring Boot, Spring Security, PostgreSQL
+•	Designed RESTful APIs with role-based access control and JWT authentication
+•	Implemented secure CRUD operations with input validation and error handling
+Fitness Tracking App | Android SDK, Room Database, Health APIs
+•	Built Android app for comprehensive health metrics tracking with workout logging and progress visualization
+•	Implemented local data persistence using Room Database for offline functionality
+
+Image Captioning with BLIP | Python, Transformers, Deep Learning
+•	Implemented transformer-based BLIP model for automatic image caption generation
+•	Achieved high accuracy on diverse image datasets using pre-trained models
+Next Word Predictor | Python, LSTM, TensorFlow
+•	Developed LSTM-based neural network for context-aware text prediction
+•	Trained model on large text corpora achieving high prediction accuracy
+Focus Detective Chrome Extension | JavaScript, Chrome APIs, HTML/CSS
+•	Built Chrome extension that blocks distracting websites and provides productivity insights
+•	Implemented time tracking and analytics dashboard to monitor browsing patterns
+URL Shortener Service | Spring Boot, REST APIs, H2 Database
+•	Created secure URL shortening service with custom short codes and analytics tracking
+
+Sleep and Step Activity tracker | Flutter, Sensors (Accelerometer APIs), Mobile Usage Logs
+•	A mobile application that monitors user sleep patterns and daily step count
+•	Sleep data is analyzed using mobile usage logs, while step detection is implemented using accelerometer sensor data to track real-time physical activity.
+ACHIEVEMENTS
+•	Solved 350+ problems on LeetCode, demonstrating strong DSA fundamentals
+•	Built 20+ production-ready projects across mobile, web, backend, and AI/ML domains
+LANGUAGES
+English, Hindi, Marathi, Tulu, Kannada, Spanish
