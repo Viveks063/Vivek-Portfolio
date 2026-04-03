@@ -1101,7 +1101,7 @@ const ContactSectionF1 = () => {
                   </div>
                   <div>
                     <div className="font-syncopate text-xs tracking-[0.25em] text-zinc-400 uppercase">Email</div>
-                    <div className="mt-1 font-syncopate text-zinc-200">viveksuvarna063@gmail.com</div>
+                    <div className="mt-1 font-syncopate text-zinc-200 text-[13px]">viveksuvarna063@gmail.com</div>
                   </div>
                 </div>
               </div>
@@ -1115,7 +1115,7 @@ const ContactSectionF1 = () => {
                   </div>
                   <div>
                     <div className="font-syncopate text-xs tracking-[0.25em] text-zinc-400 uppercase">Phone</div>
-                    <div className="mt-1 font-syncopate text-zinc-200">+91 7756029366</div>
+                    <div className="mt-1 font-syncopate text-zinc-200 text-[13px]">+91 7756029366</div>
                   </div>
                 </div>
               </div>
@@ -1129,7 +1129,7 @@ const ContactSectionF1 = () => {
                   </div>
                   <div>
                     <div className="font-syncopate text-xs tracking-[0.25em] text-zinc-400 uppercase">Location</div>
-                    <div className="mt-1 font-syncopate text-zinc-200">Mumbai, India</div>
+                    <div className="mt-1 font-syncopate text-zinc-200 text-[13px]">Mumbai, India</div>
                   </div>
                 </div>
               </div>
@@ -1266,13 +1266,13 @@ export default function Home() {
             
             <Reveal delay={100}>
               <h1 className="font-syncopate text-6xl md:text-[8rem] font-black leading-[0.85] tracking-tighter mb-6 relative">
-                <span className="block hover:text-[#ff1801] transition-colors duration-500 interactive">VIVEK</span>
-                <span className="block ml-0 md:ml-32">SUVARNA</span>
+                <span className="block hover:text-[#ff1801] transition-colors duration-500 interactive text-[83px]">VIVEK</span>
+                <span className="block ml-0 md:ml-32 text-[83px]">SUVARNA</span>
               </h1>
             </Reveal>
             
             <Reveal delay={200} className="md:ml-32 max-w-xl">
-              <p className="text-xl md:text-2xl font-medium text-zinc-600 mb-12 border-l-2 border-[#ff1801] pl-6">
+              <p className="text-xl md:text-2xl font-medium text-zinc-600 mb-12 border-l-2 border-[#ff1801] pl-6 text-[43px]">
                 SOFTWARE DEVELOPER.<br></br> Accelerating through code at breakneck speeds.
               </p>
               
@@ -1284,7 +1284,7 @@ export default function Home() {
                   className="relative group inline-block"
                 >
                   <div className="absolute inset-0 bg-[#ff1801] blur-[20px] opacity-0 group-hover:opacity-20 transition-all duration-500"></div>
-                  <div className="relative border border-black hover:border-[#ff1801] bg-white rounded-full px-10 py-6 font-syncopate font-bold text-sm tracking-[0.2em] flex items-center gap-4 transition-all duration-300">
+                  <div className="relative border border-black hover:border-[#ff1801] bg-white rounded-full px-10 py-6 font-syncopate font-bold text-sm tracking-[0.2em] flex items-center gap-4 transition-all duration-300 text-[8x]">
                     INITIALIZE CV 
                     <ArrowUpRight className="group-hover:rotate-45 group-hover:text-[#ff1801] transition-transform duration-300" size={20} />
                   </div>
